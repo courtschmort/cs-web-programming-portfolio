@@ -1,0 +1,38 @@
+html, body {
+margin: 0;
+padding: 0;
+background-color: #eee;
+}
+
+h1 {
+  font-family: 'Roboto Slab', serif;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 200;
+  text-align: center;
+}
+
+h3 {
+  font-family: 'Roboto Slab', serif;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+}
+
+.header-container {
+  background-color: #fff;
+  margin: 0px;
+  padding: 40px 0px 40px 0px;
+}
+
+
+
+.column {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
