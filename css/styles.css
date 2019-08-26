@@ -6,7 +6,7 @@ body {
 font-family: 'Open Sans', sans-serif;
 }
 
-h1 {
+h1, h4 {
   font-weight: bolder;
 }
 
@@ -25,4 +25,12 @@ img {
 
 .Courier-New {
   font-family: 'Courier New', Courier, monospace;
+}
+
+.float-left {
+  float: left;
+}
+
+.float-right {
+  float: right;
 }
