@@ -10,7 +10,7 @@ This website is a web programming portfolio of projects completed by Courtney Sc
 
 ## Setup/Installation Requirements
 
-* Click [here](#) to open the GitHub Pages website.
+* Click [here](https://courtschmort.github.io/cs-web-programming-portfolio/) to open the GitHub Pages website.
 
 <!--
 ## Known Bugs
