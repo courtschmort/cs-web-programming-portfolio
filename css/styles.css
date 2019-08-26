@@ -14,3 +14,11 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+.box-model {
+  width: 100%;
+  background-color: WhiteSmoke;
+  border-radius: .25rem;
+  padding: 30px;
+  margin: 2.5rem 0;
+}
