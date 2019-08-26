@@ -15,7 +15,7 @@ This website is a web programming portfolio of projects completed by Courtney Sc
 <!--
 ## Known Bugs
 
-{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application. Share any workarounds that are in place.}
+{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place.}
 
 ## Support and contact details
 
