@@ -29,7 +29,7 @@ This website is a web programming portfolio of projects completed by Courtney Sc
 * Bootstrap
 * Markdown
 
-### License
+## License
 
 This website is licensed under the MIT license.
 
